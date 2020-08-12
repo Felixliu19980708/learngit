@@ -1,9 +1,6 @@
 Git is a version control system.
 Git is free software.
-ddhello word
-i want to rock&roll
-hello world real
-dev is coming
+
 feature is coming soon
 feature1 is coming
 
